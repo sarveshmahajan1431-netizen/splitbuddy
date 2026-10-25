@@ -1,0 +1,5 @@
+{
+  "name": "Splitbuddy - Flatmate Finder",
+  "description": "An online platform that connects people looking for shared housing with available rooms or flats, and also connects individuals seeking flatmates in major Indian cities. It features a Gemini-powered compatibility checker.",
+  "requestFramePermissions": []
+}
